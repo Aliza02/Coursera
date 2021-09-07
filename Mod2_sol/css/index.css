@@ -1,4 +1,199 @@
 body
 {
-font-size:260px;
+	font-family: sans-serif;
+	font-weight: bold;
+		box-sizing: border-box;
+		width: :100%;
+		background-color: grey;
+		
+
+
 }
+.reponsive
+{
+	width:100%;
+	background-color: grey;
+}
+h1
+{
+	text-align: center;
+	margin-top: 150px;
+}
+/*#Chicken div
+{
+
+	margin-left: 40px;
+	width:450px;
+	background: gray;
+	border: 5px solid black;
+	padding: 10px;
+	float: left;
+
+	
+}
+#beef
+{
+	margin-left: 40px;
+	width:450px;
+	background: dodgerblue;
+	border: 5px solid black;
+	padding: 10px;
+	float: left;
+
+
+}
+#sushi
+{
+	margin-left: 40px;
+	width:450px;
+	background: yellow;
+	border: 5px solid black;
+	padding: 10px;
+	float: left;
+
+
+}
+p
+{
+	clear:right;
+}
+ h3
+{
+	position:relative;
+	bottom:15px;
+
+	left:15px;
+	margin:0px;
+	padding: 0px;
+	width:150px;
+	text-align: center;
+	font-size:20px;
+	background-color: blue;
+	border: 5px solid black;
+	float:right;
+	
+}*/
+@media (min-width: 994px)
+{
+	
+	
+#Chicken div 
+{
+	margin-left: 5%;
+
+	width:25%;
+	background: gray;
+	border: 5px solid black;
+	padding: 10px;
+	float: left;
+
+
+	
+}
+#beef
+{
+	margin-left:5%;
+	width:25%;
+	background: dodgerblue;
+	border: 5px solid black;
+		float: left;
+	padding: 10px;
+	
+
+
+}
+#sushi
+{
+	margin-left: 5%;
+	width:25%;
+		float: left;
+	background: yellow;
+	border: 5px solid black;
+	padding: 10px;
+
+
+}
+p
+{
+	clear:right;
+}
+ h3
+{
+	position:relative;
+	bottom:15px;
+
+	left:15px;
+	margin:0px;
+	padding: 0px;
+	width:150px;
+	text-align: center;
+	font-size:20px;
+	background-color: blue;
+	border: 5px solid black;
+	float:right;
+	
+}
+}
+@media  (max-width: 767px)
+{
+	
+	#Chicken div 
+{
+	margin-left: 2%;
+	margin-bottom: 2%;
+
+	width:91%;
+	background: gray;
+	border: 5px solid black;
+	padding: 10px;
+	
+	
+
+
+	
+}
+#beef
+{
+	margin-left:2%;
+	margin-bottom: 2%;
+
+	width:91%;
+	background: dodgerblue;
+	border: 5px solid black;
+	
+	padding: 10px;
+	
+
+
+}
+#sushi
+{
+	margin-left: 2%;
+	margin-bottom: 2%;
+
+	width:91%;
+	background: yellow;
+	border: 5px solid black;
+	padding: 10px;
+
+
+}
+ h3
+{
+	position:relative;
+	bottom:15px;
+
+	left:15px;
+	margin:0px;
+	padding: 0px;
+	width:150px;
+	text-align: center;
+	font-size:20px;
+	background-color: blue;
+	border: 5px solid black;
+	float:right;
+	
+}
+
+}
+
